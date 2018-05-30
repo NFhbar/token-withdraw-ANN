@@ -1,4 +1,4 @@
-# Token Withdraw Artifical Neural Netwrok
+# Token Withdraw Artificial Neural Network
 
 ## Installation
 Clone repo:
